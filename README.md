@@ -23,8 +23,8 @@ Currently in my **second semester of a master's in chemistry** at EPFL.
 > *"Education is not the learning of facts, but the training of the mind to think."* — Albert Einstein  
 
 ### ☕ Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/flavia-zabala)  
-- ✉️ flavia.zabala@example.com  
+- [LinkedIn](https://www.linkedin.com/in/flavia-zabala-a23b64175/)  
+- ✉️ flavia.zabalaperez@epfl.ch  
 
 ---
 
