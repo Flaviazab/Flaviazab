@@ -23,6 +23,4 @@ Currently in my **second semester of a master's in chemistry** at EPFL.
 - [LinkedIn](https://www.linkedin.com/in/flavia-zabala-a23b64175/)  
 - ✉️ flavia.zabalaperez@epfl.ch  
 
----
 
-Tu peux le copier dans ton `README.md` sur GitHub. Si tu veux ajouter des emojis, des hobbies, ou des couleurs spécifiques, fais-le-moi savoir !
