@@ -15,9 +15,6 @@ Currently in my **second semester of a master's in chemistry** at EPFL.
 - Innovative projects  
 - Learning and experimenting  
 
-### 💻 I work with:
-- **Python** and **R** for data analysis  
-- **ChemDraw** and **Gaussian** for molecular modeling  
 
 ### 🌱 Fun Fact:  
 > *"Education is not the learning of facts, but the training of the mind to think."* — Albert Einstein  
