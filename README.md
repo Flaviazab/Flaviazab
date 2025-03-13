@@ -1,8 +1,4 @@
-# Flaviazab
- 
-Voici une version en anglais, courte, cute, avec des couleurs pastel en tête, et une petite citation inspirante sur les études :
 
----
 
 ## 🌸 Hi there, I'm Flavia!  
 
